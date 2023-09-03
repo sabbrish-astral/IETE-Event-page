@@ -24,26 +24,19 @@ h1{
 h3{
 	font-weight:normal;
 	margin-top:-1px;
-	border-radius:20em;
-	background-color:darkblue;
 }
 .weblink a{
 	color:white;
 	text-decoration:none;
 	padding-left:15px;
 	padding-right:15px;
-}
-.weblink{
-	padding-left:6px;
-	padding-right:6px;
+	border-radius:20em;
+	background-color:darkblue;
 }
 .weblink a:hover{
-	box-shadow:2px 2px 2px 2px black;
+	box-shadow:4px 4px 4px 4px black;
 	background-color:white;
 	color:darkblue;
-	border-radius:20em;
-	padding-left:15px;
-	padding-right:15px;
 }
 .call{
 	background-color:lightgray;
