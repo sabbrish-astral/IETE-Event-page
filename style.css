@@ -169,7 +169,6 @@ h3{
 	display:flex;
 	justify-content:space-around;
 	flex-wrap:wrap;
-	flex-shrink:0;
 	background-color:lightgray;
 }
 .content5 a{
